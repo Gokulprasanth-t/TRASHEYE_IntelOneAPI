@@ -24,6 +24,19 @@ The solution involves the deployment of AI & ML algorithms for trash detection i
 ![Screenshot 2023-04-21 210817](https://user-images.githubusercontent.com/121724612/235077931-9675432b-f879-4402-bd07-a2f524078b25.png)
 ![Screenshot 2023-04-21 210916](https://user-images.githubusercontent.com/121724612/235077979-6876b766-31a4-4c0c-a2e3-47890a17ac4e.png)
 
+# Toolkit used: Intel® AI Analytics Toolkit (AI Kit)
+
+In this project, we have used various machine learning models such as ResNet, DenseNet, and CNN to detect trash in images. However, processing large amounts of image data can lead to increased runtime, particularly on systems with limited processing power.
+
+To optimize our models, we can leverage the Intel® AI Analytics Toolkit (AI Kit), which provides improved performance by optimizing the models for the Intel architecture. Deep learning APIs such as Keras are optimized for Intel hardware by the oneAPI platform, and integrating oneAPI into scikit-learn can enhance the performance of some of its algorithms, such as linear regression.
+
+By utilizing the optimized libraries and routines for mathematical computations and data analysis provided by oneAPI, we can significantly improve the performance of our trash detection models. This can help us efficiently and accurately identify trash in images, even when working with large amounts of data.
+
+# RESULT
+![WhatsApp Image 2023-04-21 at 9 04 14 PM](https://user-images.githubusercontent.com/121724612/235195283-3a903881-08ed-4cc8-8173-def719824286.jpeg)![WhatsApp Image 2023-04-21 at 9 04 14 PM (1)](https://user-images.githubusercontent.com/121724612/235195328-e111b933-b186-4e3d-ba9a-79961d4ceda8.jpeg)![WhatsApp Image 2023-04-21 at 9 04 13 PM](https://user-images.githubusercontent.com/121724612/235195360-b7b8bf9c-4b42-44e8-a364-27025c2efe88.jpeg)
+
+
+
 
 ## RESOURCES
 
