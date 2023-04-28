@@ -61,3 +61,12 @@ Improved Portability: Intel OneAPI is designed to work across a range of differe
 Heterogeneous Computing: With the increasing demand for high-performance computing, many organizations are turning to heterogeneous computing to help optimize performance. Intel OneAPI provides a range of tools and libraries that can help developers take advantage of the processing power of different hardware architectures, including CPUs, GPUs, FPGAs, and other accelerators.
 
 In conclusion, Intel OneAPI is a powerful toolkit that can help developers create high-performance, heterogeneous applications across different architectures. By providing a unified programming model, optimized libraries and tools, and open-source support, Intel OneAPI can help simplify development, improve performance, and enable greater collaboration and innovation across the development community.
+
+# BACK BONE'S:
+  * INTEL ONEAPI
+  * AKSHAY (Student Ambassador INTEL ONEAPI)
+  * MRS. Nisha Soms (Mentor)
+  
+# TEAM MEMBERS:
+  * GokulPrasanth T
+  * Harini M
