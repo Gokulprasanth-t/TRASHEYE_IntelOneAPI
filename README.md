@@ -8,6 +8,9 @@ One of the main advantages of using Intel OneAPI is its performance. By optimizi
 Intel OneAPI also provides a range of tools and libraries to help developers optimize their code. These include the Intel VTune Profiler, which enables developers to analyze the performance of their code and identify bottlenecks, and the Intel Math Kernel Library, which provides optimized routines for math operations such as linear algebra and Fourier transforms.
 # TRASHEYE_IntelOneAPI
 ## Problem Statement: 
+
+https://user-images.githubusercontent.com/121724612/235176549-d6811f96-cc06-4075-958f-7d50d49c5b88.mp4
+
 Improper waste management is a major environmental concern worldwide, as it results in the accumulation of trash in landfills and oceans. Despite the availability of waste disposal bins, littering and illegal dumping of garbage still occur frequently in public places, leading to sanitation and health issues.
 
 ## Objective: 
