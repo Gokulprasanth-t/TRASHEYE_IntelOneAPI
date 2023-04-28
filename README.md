@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/121724612/235077401-0bff94d6-ca0f-466f-875d-f3790215d9c4.png)
+![image_2020_11_03T09_50_23_420Z_4_965x450-965x430-1](https://user-images.githubusercontent.com/121724612/235177155-ae7f12df-22f5-4286-ad4c-ec5f971a7454.png)
 
 # INTEL ONE API
 Intel OneAPI is a unified programming model that enables developers to build applications across a variety of architectures, including CPUs, GPUs, and FPGAs. It provides a single programming interface for these architectures, making it easier for developers to write and optimize code for their specific hardware.
@@ -9,12 +9,14 @@ Intel OneAPI also provides a range of tools and libraries to help developers opt
 # TRASHEYE_IntelOneAPI
 ## Problem Statement: 
 
-https://user-images.githubusercontent.com/121724612/235176549-d6811f96-cc06-4075-958f-7d50d49c5b88.mp4
+![sky-high-trash](https://user-images.githubusercontent.com/121724612/235177381-04f114f1-069d-431d-ae5e-d6113491db96.png)
 
 Improper waste management is a major environmental concern worldwide, as it results in the accumulation of trash in landfills and oceans. Despite the availability of waste disposal bins, littering and illegal dumping of garbage still occur frequently in public places, leading to sanitation and health issues.
 
 ## Objective: 
 The objective of the proposed solution is to detect and identify trash in public areas using AI & ML technology. The goal is to reduce the amount of litter and illegal dumping by implementing an efficient trash management system.
+
+https://user-images.githubusercontent.com/121724612/235176549-d6811f96-cc06-4075-958f-7d50d49c5b88.mp4
 
 ## Solution: 
 The solution involves the deployment of AI & ML algorithms for trash detection in real-time. The system uses cameras installed in public areas to capture images of the surroundings. The captured images are then analyzed using computer vision and deep learning techniques to identify and categorize the trash. This information is then relayed to the concerned authorities for appropriate action, such as garbage collection and disposal.
