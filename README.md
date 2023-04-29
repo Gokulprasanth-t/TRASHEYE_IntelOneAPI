@@ -1,3 +1,4 @@
+# TRASHEYE_IntelOneAPI
 ![image_2020_11_03T09_50_23_420Z_4_965x450-965x430-1](https://user-images.githubusercontent.com/121724612/235177155-ae7f12df-22f5-4286-ad4c-ec5f971a7454.png)
 
 # INTEL ONE API
@@ -6,7 +7,7 @@ Intel OneAPI is a unified programming model that enables developers to build app
 One of the main advantages of using Intel OneAPI is its performance. By optimizing code for specific hardware, developers can achieve significant performance improvements compared to running code on a generic platform. This is particularly important for applications that require high-performance computing, such as machine learning and scientific simulations.
 
 Intel OneAPI also provides a range of tools and libraries to help developers optimize their code. These include the Intel VTune Profiler, which enables developers to analyze the performance of their code and identify bottlenecks, and the Intel Math Kernel Library, which provides optimized routines for math operations such as linear algebra and Fourier transforms.
-# TRASHEYE_IntelOneAPI
+
 ## Problem Statement: 
 
 ![sky-high-trash](https://user-images.githubusercontent.com/121724612/235177381-04f114f1-069d-431d-ae5e-d6113491db96.png)
@@ -37,8 +38,9 @@ By utilizing the optimized libraries and routines for mathematical computations 
 
 
 # WEB APP
-![Screenshot (1)](https://user-images.githubusercontent.com/121724612/235199713-1fe605e1-8af1-4b37-9bf0-531f7a90f8ef.png)
-This is the expected webapp output of the project.
+![Screenshot (2)](https://user-images.githubusercontent.com/121724612/235289958-84a838a9-325c-4461-ae76-6b691c05fe53.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/121724612/235289962-7bab6c74-ffab-4755-b46e-95895630102e.png)
+
 
 # RESOURCES
 
